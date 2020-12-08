@@ -1,4 +1,4 @@
-# 网易云游戏自动签到
+# 网易云游戏自动签到 ![AutoSignin](https://github.com/QIUZAIYOU/wyycg-autocheckin/workflows/AutoSignin/badge.svg)
 
 本脚本通过使用Github Action来进行[网易云游戏](https://cloudgame.webapp.163.com/newer.html?invite_code=2ZLPWY)签到操作，让你能够天天白嫖网易云游戏时长和云电脑！
 
